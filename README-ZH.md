@@ -78,7 +78,6 @@ Project_CSCT/
 ├── ABP.py                     # 基线算法：自适应二进制分裂协议
 ├── ACDQT.py                   # 基线算法：自适应相关动态查询树
 ├── DCT.py                     # 基线算法：动态碰撞树
-├── EDRCT.py                   # 基线算法：高效动态RFID收集树
 ├── MRSMBA.py                  # 基线算法：抗移动时隙ALOHA
 ├── TAD.py                     # 基线算法：基于标签量差异
 │
@@ -120,7 +119,6 @@ Project_CSCT/
 | **TAD** | Tag-Amount-Difference-based | 2020 |
 | **ABP** | Adaptive Binary-splitting Protocol | 2023 |
 | **ACDQT** | Adaptive-Correlative Dynamic Query Tree | 2023 |
-| **EDRCT** | Efficient Dynamic RFID Collection Tree | — |
 
 ## 关键性能指标
 

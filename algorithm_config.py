@@ -9,7 +9,6 @@ from DCT import DCT_Algorithm
 from MRSMBA import MRSMBA_Algorithm
 from TAD import TAD_Algorithm
 from ABP import ABP_Algorithm
-from EDRCT import EDRCT_Algorithm
 from CSCT import CSCT
 from CSCT_Oracle import CSCT_Oracle
 from CSCT_Estimator import CSCT_Est

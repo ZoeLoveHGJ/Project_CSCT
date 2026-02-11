@@ -78,7 +78,6 @@ Project_CSCT/
 ├── ABP.py                     # Baseline: Adaptive Binary Splitting Protocol
 ├── ACDQT.py                   # Baseline: Adaptive-Correlative Dynamic Query Tree
 ├── DCT.py                     # Baseline: Dynamic Collision Tree
-├── EDRCT.py                   # Baseline: Efficient Dynamic RFID Collection Tree
 ├── MRSMBA.py                  # Baseline: Mobility-Resistant Slotted-ALOHA-based
 ├── TAD.py                     # Baseline: Tag-Amount-Difference-based
 │
@@ -120,7 +119,6 @@ Project_CSCT/
 | **TAD** | Tag-Amount-Difference-based | 2020 |
 | **ABP** | Adaptive Binary-splitting Protocol | 2023 |
 | **ACDQT** | Adaptive-Correlative Dynamic Query Tree | 2023 |
-| **EDRCT** | Efficient Dynamic RFID Collection Tree | — |
 
 ## Key Performance Indicators
 
